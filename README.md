@@ -26,7 +26,7 @@
 * **Repository:** [https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION)
 
 ### 📬 Contact & Acknowledgement
-* [cite_start]**Author:** Faizan Firoz Shah [cite: 5]
-* [cite_start]**Internship:** CodSoft Data Science Intern [cite: 5]
-* [cite_start]**Batch:** January 2026 [cite: 5]
-* [cite_start]**Internship ID:** CS11NY482650 [cite: 5]
+***Author:** Faizan Firoz Shah 
+* **Internship:** CodSoft Data Science Intern
+* **Batch:** January 2026 
+* **Internship ID:** CS11NY482650 
