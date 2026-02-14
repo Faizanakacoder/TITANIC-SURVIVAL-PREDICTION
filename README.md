@@ -23,17 +23,17 @@ To build a Machine Learning model that answers the question: **"What sort of peo
 ### 1. The "Women and Children First" Protocol
 The age distribution clearly shows a massive spike in survival for infants (0-5 years), while men faced the lowest survival probability.
 
-![Age Distribution](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/age_distribution.png?raw=true)
+![Age Distribution](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/Images/age_distribution.png?raw=true)
 
 ### 2. The Socio-Economic Divide
 Survival wasn't random—it was purchased. 1st Class passengers (especially women) had a near-guaranteed survival rate, while 3rd Class men were left behind.
 
-![Class and Gender](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/by_class_and_gender.png?raw=true)
+![Class and Gender](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/Images/by_class_and_gender.png?raw=true)
 
 ### 3. Feature Correlations
 My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of survival than **Age** (excluding infants).
 
-![Correlation Heatmap](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/feature_survivour.png?raw=true)
+![Correlation Heatmap](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/Images/feature_survivour.png?raw=true)
 
 ---
 
@@ -71,26 +71,33 @@ My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of
 ## 📂 Repository Structure
 
 ```text
-├── images/               # Screenshots of plots and graphs
+├── Images/               # Screenshots of plots and graphs
 ├── Titanic_Survival.ipynb # Main Jupyter Notebook
 ├── README.md             # Project Documentation
 └── requirements.txt      # List of dependencies
-🔗 Connect with Me
+
+```
+
+---
+
+## 🔗 Connect with Me
+
 If you found this analysis interesting or have any questions, feel free to connect!
 
-Author: Faizan Firoz Shah
+* **Author:** Faizan Firoz Shah
+* **Role:** Data Science Intern @ CodSoft
+* **Batch:** January 2026
+* **Internship ID:** CS11NY482650
+* **GitHub:** [https://github.com/Faizanakacoder](https://github.com/Faizanakacoder)
+* **LinkedIn:** [My LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/0faizanshah0)
 
-Role: Data Science Intern @ CodSoft
-
-Batch: January 2026
-
-Internship ID: CS11NY482650
-
-GitHub: https://github.com/Faizanakacoder
-
-LinkedIn: My LinkedIn Profile
+---
 
 <div align="center">
 <p>⭐ <b>If you found this project helpful, please give it a Star!</b> ⭐</p>
 <p><i>Happy Coding! 🚀</i></p>
 </div>
+
+```
+
+```
