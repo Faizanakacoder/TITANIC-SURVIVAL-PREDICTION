@@ -16,25 +16,23 @@ This project goes beyond simple binary classification. As **Task 1** for the **C
 To build a Machine Learning model that answers the question: **"What sort of people were more likely to survive?"**
 
 ---
-
 ## 📊 Visual Insights (EDA)
 *Data isn't just numbers; it's a story.* Here are the key insights that drove my model's logic:
 
 ### 1. The "Women and Children First" Protocol
 The age distribution clearly shows a massive spike in survival for infants (0-5 years), while men faced the lowest survival probability.
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/age_distribution.png?raw=true)
 
 ### 2. The Socio-Economic Divide
 Survival wasn't random—it was purchased. 1st Class passengers (especially women) had a near-guaranteed survival rate, while 3rd Class men were left behind.
 
-![Class and Gender](images/by_class_and_gender.png)
+![Class and Gender](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/by_class_and_gender.png?raw=true)
 
 ### 3. Feature Correlations
 My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of survival than **Age** (excluding infants).
 
-![Correlation Heatmap](images/feature_survivour.png)
-
+![Correlation Heatmap](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/feature_survivour.png?raw=true)
 ---
 
 ---
