@@ -89,7 +89,7 @@ If you found this analysis interesting or have any questions, feel free to conne
 * **Batch:** January 2026
 * **Internship ID:** CS11NY482650
 * **GitHub:** [https://github.com/Faizanakacoder](https://github.com/Faizanakacoder)
-* **LinkedIn:** [My LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/0faizanshah0)
+* **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/0faizanshah0)
 
 ---
 
