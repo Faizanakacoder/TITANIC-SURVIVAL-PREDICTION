@@ -72,9 +72,9 @@ My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of
 
 ```text
 ├── Images/               # Screenshots of plots and graphs
-├── Titanic_Survival.ipynb # Main Jupyter Notebook
+├── TASK-1 CODSOFT INTERNSHIP.ipynb # Main Jupyter Notebook
 ├── README.md             # Project Documentation
-└── requirements.txt      # List of dependencies
+└── task 1 data science.zip    # List of dependencies
 
 ```
 
