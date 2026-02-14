@@ -23,7 +23,8 @@ To build a Machine Learning model that answers the question: **"What sort of peo
 ### 1. The "Women and Children First" Protocol
 The age distribution clearly shows a massive spike in survival for infants (0-5 years), while men faced the lowest survival probability.
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](<img width="863" height="549" alt="age_distribution png" src="https://github.com/user-attachments/assets/ecae6193-7535-4a4d-bb66-fcec95e8e57c" />
+)
 
 ### 2. The Socio-Economic Divide
 Survival wasn't random—it was purchased. 1st Class passengers (especially women) had a near-guaranteed survival rate, while 3rd Class men were left behind.
