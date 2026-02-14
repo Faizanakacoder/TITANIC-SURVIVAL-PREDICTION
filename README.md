@@ -22,22 +22,18 @@ To build a Machine Learning model that answers the question: **"What sort of peo
 
 ### 1. The "Women and Children First" Protocol
 The age distribution clearly shows a massive spike in survival for infants (0-5 years), while men faced the lowest survival probability.
-![Age Distribution](<img width="863" height="549" alt="age distribution" src="https://github.com/user-attachments/assets/65f688d9-41be-4d42-9e55-051f2d14950d" />
-)
-*(Replace 'images/age_distribution.png' with your actual file path)*
+
+![Age Distribution](images/age_distribution.png)
 
 ### 2. The Socio-Economic Divide
 Survival wasn't random—it was purchased. 1st Class passengers (especially women) had a near-guaranteed survival rate, while 3rd Class men were left behind.
-![Class and Gender](<img width="691" height="549" alt="class and gender" src="https://github.com/user-attachments/assets/00549808-0f11-4870-98cc-8f29f1ccaed7" />
-)
-*(Replace 'images/by_class_and_gender.png' with your actual file path)*
+
+![Class and Gender](images/by_class_and_gender.png)
 
 ### 3. Feature Correlations
 My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of survival than **Age** (excluding infants).
-![Heatmap](<img width="645" height="530" alt="coffeletion" src="https://github.com/user-attachments/assets/c4095351-c9dc-4806-87ac-d459b10155e2" />
-)
-*(Replace 'images/feature_survivour.png' with your actual file path)*
 
+![Correlation Heatmap](images/feature_survivour.png)
 ---
 
 ## 🛠️ Technologies & Tools
