@@ -16,6 +16,7 @@ This project goes beyond simple binary classification. As **Task 1** for the **C
 To build a Machine Learning model that answers the question: **"What sort of people were more likely to survive?"**
 
 ---
+
 ## 📊 Visual Insights (EDA)
 *Data isn't just numbers; it's a story.* Here are the key insights that drove my model's logic:
 
@@ -33,7 +34,6 @@ Survival wasn't random—it was purchased. 1st Class passengers (especially wome
 My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of survival than **Age** (excluding infants).
 
 ![Correlation Heatmap](https://github.com/Faizanakacoder/TITANIC-SURVIVAL-PREDICTION/blob/main/images/feature_survivour.png?raw=true)
----
 
 ---
 
@@ -51,54 +51,46 @@ My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of
 
 ## 🚀 Key Workflow Steps
 
-1.  **Data Loading & Cleaning:**
+1. **Data Loading & Cleaning:**
     * Imported data via Seaborn.
     * Handled missing values in `Age` (imputed based on Pclass) and `Embarked`.
-2.  **Feature Engineering:**
+2. **Feature Engineering:**
     * Extracted **Titles** (Mr, Mrs, Miss, Master) from passenger names to categorize social status more accurately.
     * Converted categorical variables (`Sex`, `Embarked`) into numeric dummies.
-3.  **Exploratory Data Analysis (EDA):**
+3. **Exploratory Data Analysis (EDA):**
     * Uncovered the correlation between **Fare Price** and **Survival Rate**.
     * Visualized the impact of **Family Size** (SibSp + Parch).
-4.  **Model Training:**
+4. **Model Training:**
     * Split data into 80% Training and 20% Testing sets.
     * Trained a **Logistic Regression** model for binary classification.
-5.  **Evaluation:**
+5. **Evaluation:**
     * Evaluated performance using Accuracy Score and Confusion Matrix.
 
 ---
 
 ## 📂 Repository Structure
 
-```markdown
 ```text
 ├── images/               # Screenshots of plots and graphs
 ├── Titanic_Survival.ipynb # Main Jupyter Notebook
 ├── README.md             # Project Documentation
 └── requirements.txt      # List of dependencies
-
-```
-
----
-
-## 🔗 Connect with Me
-
+🔗 Connect with Me
 If you found this analysis interesting or have any questions, feel free to connect!
 
-* **Author:** Faizan Firoz Shah
-* **Role:** Data Science Intern @ CodSoft
-* **Batch:** January 2026
-* **Internship ID:** CS11NY482650
-* **GitHub:** [https://github.com/Faizanakacoder](https://www.google.com/search?q=https://github.com/Faizanakacoder)
-* **LinkedIn:** [www.linkedin.com/in/0faizanshah0]
+Author: Faizan Firoz Shah
 
----
+Role: Data Science Intern @ CodSoft
+
+Batch: January 2026
+
+Internship ID: CS11NY482650
+
+GitHub: https://github.com/Faizanakacoder
+
+LinkedIn: My LinkedIn Profile
 
 <div align="center">
 <p>⭐ <b>If you found this project helpful, please give it a Star!</b> ⭐</p>
 <p><i>Happy Coding! 🚀</i></p>
 </div>
-
-```
-
-```
