@@ -17,20 +17,28 @@ To build a Machine Learning model that answers the question: **"What sort of peo
 
 ---
 
+## 📊 Visual Insights (EDA)
+*Data isn't just numbers; it's a story.* Here are the key insights that drove my model's logic:
+
 ### 1. The "Women and Children First" Protocol
 The age distribution clearly shows a massive spike in survival for infants (0-5 years), while men faced the lowest survival probability.
 
-![Age Distribution](images/age%20distribution.png)
+![Age Distribution](images/age_distribution.png)
 
 ### 2. The Socio-Economic Divide
 Survival wasn't random—it was purchased. 1st Class passengers (especially women) had a near-guaranteed survival rate, while 3rd Class men were left behind.
 
-![Class and Gender](images/by%20class%20and%20gender.png)
+![Class and Gender](images/by_class_and_gender.png)
 
 ### 3. Feature Correlations
 My analysis revealed that **Fare** (Wealth) was actually a stronger predictor of survival than **Age** (excluding infants).
 
-![Correlation Heatmap](images/feature%20survivour.png)
+![Correlation Heatmap](images/feature_survivour.png)
+
+---
+
+---
+
 ## 🛠️ Technologies & Tools
 
 | Category | Tools Used |
